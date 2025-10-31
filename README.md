@@ -1,2 +1,1 @@
-# ClashNode
-Clash订阅节点推荐
+# Clash订阅节点推荐
